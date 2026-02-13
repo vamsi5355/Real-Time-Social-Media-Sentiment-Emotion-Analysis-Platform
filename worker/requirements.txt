@@ -1,3 +1,5 @@
 redis
 pymongo
-python-dotenv
+python-dotenvtransformers
+torch
+requests

@@ -5,3 +5,9 @@ python-dotenv
 pytest
 pytest-cov
 httpx
+redis
+transformers
+torch
+websockets
+aioredis
+requests
